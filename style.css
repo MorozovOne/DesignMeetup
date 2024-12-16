@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: 'PP Right Grotesk', sans-serif;
+    font-family: 'PP Right Grotesk', 'Inter', 'Space Grotesk', 'Roboto', 'Work Sans', 'DM Sans', 'Manrope', 'Poppins', sans-serif;
     color: #ffffff;
     background: #040404;
     background: linear-gradient(135deg, #F43131, #FFA931, #8C31FF);
@@ -26,7 +26,7 @@ body {
 .hero {
     text-align: center;
     padding-bottom: 8px;
-    padding-top: 32px;
+    padding-top: 20px;
 }
 
 .hero-title {
@@ -58,7 +58,7 @@ body {
     padding: 20px;
     margin-bottom: 15px;
     background: #121212;
-    border-radius: 24px;
+    border-radius: 20px;
 }
 
 .schedule-item .time {
